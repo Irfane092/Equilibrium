@@ -39,7 +39,7 @@
 .p1{
     height: 320px;
     width: 100%;
-    background: url('../images/image-equilibrium.jpg') no-repeat center;
+    background: url('images/image-equilibrium.jpg') no-repeat center;
     background-size: cover;
     border-radius: 5%;
  
